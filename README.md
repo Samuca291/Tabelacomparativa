@@ -4,4 +4,4 @@ Tabela comparativa entre Sindicância e Processo Administrativo Disciplinar (PAD
 
 ## Conteúdo
 
-- **`CRITÉRIO.docx`**: Documento contendo a tabela comparativa detalhada com critérios, hipóteses de cabimento, prazos, ritos e mnemônicos de estudo para o TJ-SP.
+- **`CRITÉRIO (revisado).docx`**: Documento contendo a tabela comparativa detalhada e revisada com critérios, hipóteses de cabimento, prazos, ritos e mnemônicos de estudo para o TJ-SP.
